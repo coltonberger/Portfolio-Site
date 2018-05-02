@@ -1,13 +1,154 @@
-.title {
-  text-align: center
+body {
+  font-family: Verdana
 }
 
-.pictureOfMe {
+#title {
+  text-align: center
+}
+#title{
+  font-weight: 500;
+  font-size: 20px
+}
+
+#pictureOfMe {
     margin: 0 auto;
     width: 500px;
     height: 750px;
   }
 
-.contact{
-  text-align: center
+.centerDiv{
+		width: 60%;
+		height:150px;
+		margin: 0 auto;
+	}
+
+	.contact{
+		width: 50%;
+		height:150px;
+		float:left;
+    text-align: center;
+    vertical-align: middle;
+	}
+
+	.skills{
+		width: 50%;
+		height:150px;
+		float:left;
+    text-align: center;
+    vertical-align: middle;
+	}
+
+#resumeTitle{
+  text-align: center;
+  margin-top: 50px
+}
+
+#resumeTitle{
+  margin-bottom: 50px
+}
+
+.galvanize{
+  width: 100%;
+  height:55px;
+  margin: 0 auto;
+}
+
+.date1{
+  width: 30%;
+  height:45px;
+  float:left;
+}
+
+.galvanizeDescription{
+  width: 30%;
+  height:45px;
+  float:left;
+}
+
+.americanUni{
+  width: 100%;
+  height:75px;
+  margin: 0 auto;
+}
+
+.date2{
+  width: 30%;
+  height:65px;
+  float:left;
+}
+
+.americanDescription{
+  width: 50%;
+  height:65px;
+  float:left;
+}
+
+.hiltonSF{
+  width: 100%;
+  height:135px;
+  margin: 0 auto;
+}
+.hiltonRevenue{
+  width: 30%;
+  height:120px;
+  float:left;
+}
+.revenueDiscription{
+  width: 70%;
+  height:120px;
+  float:left;
+}
+
+.Edole{
+  width: 100%;
+  height:80px;
+  margin: 0 auto;
+}
+
+.doleJob{
+  width: 30%;
+  height:65px;
+  float:left;
+}
+
+.doleDiscription{
+  width: 70%;
+  height:65px;
+  float:left;
+}
+
+.hiltonNY{
+  width: 100%;
+  height:115px;
+  margin: 0 auto;
+}
+
+.nyHiltonJob{
+  width: 30%;
+  height:100px;
+  float:left;
+}
+
+.nyDescription{
+  width: 70%;
+  height:100px;
+  float:left;
+}
+
+.amsterdamJob{
+  width: 100%;
+  height:200px;
+  margin: 0 auto;
+}
+
+.saleJob{
+  width: 30%;
+  height:80px;
+  float:left;
+}
+
+.saleDescription{
+  width: 70%;
+  height:80px;
+  float:left;
 }
